@@ -32,7 +32,7 @@ font & reset css
 :root{
 
   --verdeMain: #7a3077;
-  --beigeSec: #b05dbb;
+  --beigeSec: #7a3077;
 }
 
 @import url("https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900");
@@ -1568,6 +1568,9 @@ responsive
     padding-top: 100px;
     height: auto;
   }
+
+
+
   .header-area .main-nav .nav li.submenu:after {
     right: 3px;
   }
